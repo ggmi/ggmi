@@ -1,4 +1,4 @@
-# 🧠 Senior Engineer 
+# 🧠 Senior Engineer
 
 **Full-Stack · Data & ML · Python**
 
